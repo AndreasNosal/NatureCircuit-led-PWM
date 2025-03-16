@@ -31,6 +31,4 @@ Originally designed to help users learn about PCB assembly, soldering techniques
 - Under **GPL-3.0** license.
 
 ## Example in Action
-![PlaceholderImage](https://github.com/your-username/your-repo/assets/placeholder.png)
-
-Feel free to customize and extend this project according to your needs. Contributions and feedback are always welcome!
+![led-box-preview-video](https://github.com/user-attachments/assets/914f537c-5393-4c83-a25a-f0fdf2354518)
