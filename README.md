@@ -4,6 +4,8 @@ This project showcases a light fixture that can be controlled remotely via a sma
 
 Originally designed to help users learn about PCB assembly, soldering techniques, and microcontroller programming, this project emphasizes a hands-on approach. Whether you order your PCBs from JLCPCB and print your own stencil for the LED panel or simply 3D-print the housing at home, you’ll gain valuable experience in hardware assembly and coding for an IoT-focused device.
 
+Our webside for instructions: https://nature-circuit.tech/courses
+
 ## Features
 - **ESP32-Based Controller**: Uses two main files (`main.py` and `ble_advertising.py`) to establish a reliable Bluetooth connection for receiving commands from your smartphone.
 - **LED Panel**: Powered by an optional custom PCB or a standard LED strip; easily replaceable or upgradable.
