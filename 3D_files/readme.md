@@ -38,6 +38,7 @@ This folder contains the **3D models** (Fusion 360 design files, STL exports, an
 
 - These design files are offered under the **GPL-3.0** license, similar to the rest of the project.  
 - You’re free to share, modify, and build upon the designs, as long as you provide the same freedoms to others and acknowledge the original source.
+![obrázok](https://github.com/user-attachments/assets/f94b6091-9572-4afb-a66e-a055495cb611)
 
 ---
 
